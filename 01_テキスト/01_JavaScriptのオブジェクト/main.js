@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 const hikakin = {
   name: "ヒカキン",
   age: 24,
@@ -14,3 +15,4 @@ const hikakin = {
 
 // 練習問題
 // hikakin オブジェクトに入っている sayHello メソッドを実行してください。
+hikakin.sayHello()
