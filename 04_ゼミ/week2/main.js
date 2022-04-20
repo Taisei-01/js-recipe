@@ -4,7 +4,6 @@ const addbutton = document.getElementById("add-button")
 
 addbutton.ondlick = function () {
   //入力の読み取り
-
   console.log(input.value)
   //カードの追加
 }
